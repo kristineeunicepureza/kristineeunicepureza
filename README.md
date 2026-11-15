@@ -25,19 +25,6 @@
 
 Technologies and tools I use to build and ship web and mobile apps.
 
-**QA & Testing**
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-6d28d9?style=flat-square)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-6d28d9?style=flat-square)
-![System Testing](https://img.shields.io/badge/System_Testing-6d28d9?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-6d28d9?style=flat-square)
-![Performance Testing](https://img.shields.io/badge/Performance_Testing-6d28d9?style=flat-square)
-![Test Documentation (STD)](https://img.shields.io/badge/Test_Documentation_(STD)-6d28d9?style=flat-square)
-![RTM](https://img.shields.io/badge/Requirements_Traceability_Matrix_(RTM)-6d28d9?style=flat-square)
-![Feature Completion Matrix](https://img.shields.io/badge/Feature_Completion_Matrix-6d28d9?style=flat-square)
-![MVP Validation (GQM)](https://img.shields.io/badge/MVP_Validation_(GQM)-6d28d9?style=flat-square)
-![User Validation & Evaluation](https://img.shields.io/badge/User_Validation_&_Evaluation-6d28d9?style=flat-square)
-![Findings Reports](https://img.shields.io/badge/Findings_Reports-6d28d9?style=flat-square)
-
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
