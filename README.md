@@ -48,7 +48,8 @@
 | [**Reorder_Refill_Reminder**](https://github.com/kristineeunicepureza/Reorder_Refill_Reminder) | ServiceNow app that uses time-based inventory thresholds to trigger restock alerts. Top 80, ServiceNow Tech Hackathon 2026. | Co-developer |
 | [**PerfectStayMobile**](https://github.com/kristineeunicepureza/PerfectStayMobile) | Native Android (Kotlin) resort booking app for Cebu and Bohol. | Developer |
 | [**PerfectStayFrontend**](https://github.com/kristineeunicepureza/PerfectStayFrontend) | Responsive React booking and room-tracking interface. | Co-developer |
-| **QuickPitik** (capstone) | AI-powered marathon photography ecosystem (Android, Electron desktop, Next.js marketplace; Spring Boot + FastAPI + pgvector). See the [team repo](https://github.com/theo2815/Capstone-Project) · [live](https://quickpitik.com). | Lead Documentation, QA &amp; Tester |
+| [**QuickPitik**](https://github.com/theo2815/Capstone-Project) (capstone) | AI-powered marathon photography ecosystem (Android, Electron desktop, Next.js marketplace; Spring Boot + FastAPI + pgvector). [Live site](https://quickpitik.com) | Lead Documentation, QA & Tester |
+| [**BatchMyPhotos**](https://github.com/theo2815/Batch-My-Photos) (capstone-related) | Companion project built alongside QuickPitik. [Live site](https://www.batchmyphotos.com/) | QA & Tester |
 
 ## 📫 Let's connect
 
