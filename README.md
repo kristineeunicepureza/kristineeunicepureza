@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kristine Eunice Pureza 👋</h1>
 
 <p align="center">
-  <b>QA Tester &amp; Developer</b> · BS Information Technology @ Cebu Institute of Technology – University<br>
+  <b>UI/UX, Developer, QA Tester &amp; Graphic Designer</b> · BS Information Technology @ Cebu Institute of Technology – University<br>
   I test software, trace it back to requirements, and build full-stack apps.
 </p>
 
